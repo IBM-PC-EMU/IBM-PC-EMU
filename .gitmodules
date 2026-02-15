@@ -1,0 +1,3 @@
+[submodule "IBM-PC-x86-EMU"]
+	path = IBM-PC-x86-EMU
+	url = https://github.com/IBM-PC-EMU/IBM-PC-x86-EMU.git
